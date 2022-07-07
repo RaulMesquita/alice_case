@@ -14,8 +14,11 @@ The docker will create the DB and populate.
 As all is executed the DB will be created and will be running
 
 Database: alice_case
+
 User: user
+
 password: postgres
+
 port: 5438
 
 * Command to shut down: pressing `Ctrl+C`
