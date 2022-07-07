@@ -1,0 +1,25 @@
+version: '3.2'
+
+services:
+  db:
+    build:
+      context: .
+      args:
+      - NODE_ENV=local
+      dockerfile: Dockerfile
+    container_name: alice_pgdatabase
+    restart: always
+    ports:
+      - "5438:5432"
+    environment:
+      POSTGRES_DB: alice_case
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: postgres
+      PGPASSWORD: postgres
+      PGDATA: 'local_pgdata:/var/lib/postgresql/data/pg-data'
+    volumes:
+      - 'local_pgdata:/var/lib/postgresql/data/pg-data'
+    image: alice_tech_case/alice_pgdatabase:1
+
+volumes:
+  local_pgdata:
