@@ -19,7 +19,7 @@ services:
       PGDATA: 'local_pgdata:/var/lib/postgresql/data/pg-data'
     volumes:
       - 'local_pgdata:/var/lib/postgresql/data/pg-data'
-    image: alice_tech_case/alice_pgdatabase:1
+    image: alice_technic_case/alice_pgdatabase:1
 
 volumes:
   local_pgdata:
