@@ -1,0 +1,100 @@
+contact_id;cpf;name;address;buy_intention
+4000;00.930.834.9-84;João Miguel  Queirós Aparecido;Rua Germano Vítor dos Santos;TRUE
+4001;11.464.906.1-05;Maria Julia  Brasil  Barros;Rua Glucínio;TRUE
+4009;66.279.889.1-42;Theo  Magalhães   Barros;Rua Nelson Ferreira;TRUE
+4011;22.029.821.1-05;Marcela  Costa Calado;Rua Clodomiro Pinheiro;TRUE
+4040;57.444.588.8-55;Vanessa  Fontes  Rodrigues;Rua Emí­lio Retrosi;TRUE
+4046;15.249.618.4-57;Heitor  Matos  Costa;Praça Antônio Pereira Martins;TRUE
+4063;45.864.190.9-27;Guilherme  Rocha  Castro;Rua Comendador Assad Abdalla;TRUE
+4071;57.655.890.1-13;Valentina  Rocha  Guimarães ;Rua Ouro Verde;TRUE
+4073;06.036.234.4-66;Thiago  Souza Aparecido;Rua Casa da Boavista;TRUE
+4102;76.528.936.8-42;Bernardo  Correia  Rocha;Rua John Redford;TRUE
+4109;82.842.654.0-92;Maria Alice  Cardoso Rodrigues;Avenida Nazaré;FALSE
+4118;96.591.595.0-32;Alice Mesquita Rodrigues;Avenida Adelino Jorge Montenegro;FALSE
+4126;47.520.520.6-43;Ana  Campos  Matos;Rua Rynaldo Borgianni;FALSE
+4137;99.159.578.1-65;Viviane  Pedreira  Costa;Rua Arvore da Cera;FALSE
+4154;04.001.107.5-75;Maria Cecília  Braga  Brasil;Rua Acioli Monteiro;FALSE
+4159;96.296.460.6-93;Heitor  Azevedo  Rocha;Rua Manuel Teles Vitancos;FALSE
+4175;63.720.288.5-12;Maria Alice dos Santos Mesquita;Rua Antônio Mariani;FALSE
+4189;56.291.552.2-39;Laura  Teixeira Rodrigues;Rua Tiburno;FALSE
+4209;24.669.453.3-17;Eduardo Silva  Macedo;Rua Venceslau José Bernardes;FALSE
+4245;06.839.101.4-71;Lucas Aparecido  Braga;Avenida João Barreto de Menezes;FALSE
+4252;52.976.780.7-17;Gael Arake  Azevedo;Praça João Paulo Meira;FALSE
+4255;98.132.082.3-51;Theo Mesquita  Siqueira;Rua Rubens Mascarenhas;FALSE
+4264;18.100.343.8-07;Heitor Calado  Pedreira;Viela Eurides da Silva Carvalho;FALSE
+4281;73.384.419.8-02;Maria  Matos Almeida;Travessa Quatro de Setembro;FALSE
+4294;10.767.229.9-72;Tamires  Campos  Queirós;Rua Soldado José Reymão;FALSE
+4305;20.894.331.9-09;Heitor  Rocha  Costa;Rua Cravo do Campo;FALSE
+4315;19.881.429.7-90;Alice Palmito Kubitcheck;Travessa Tres Pingos Dagua;FALSE
+4317;37.316.885.8-69;Gabriela Palmito  Barros;Rua Itacaranha;TRUE
+4319;24.011.999.6-09;Heloísa Kubitcheck Silva;Rua Hercí­lio Luz;TRUE
+4323;19.315.122.2-70;João Miguel Palmito Aparecido;Rua Xororó;TRUE
+4340;73.066.029.3-50;Maria Clara Oliveira  Castro;Praça Monteiro Lobato;TRUE
+4341;89.276.754.8-82;Miguel  Magalhães  Palmito;Rua Galatea;TRUE
+4344;97.925.119.7-02;Tamires  Ribeiro  Brasil;Praça Madre Maria Josefina Villac;TRUE
+4347;92.986.066.7-42;Gabriel Silva  Queirós;Rua Banana-Branca;TRUE
+4353;83.659.747.0-13;Bernardo  Correia  Guimarães ;Rua Dominique Lagru;TRUE
+4355;93.722.235.0-64;Arthur  Brasil Rodrigues;Rua Nova Olinda do Norte;TRUE
+4359;99.989.092.2-59;Eduardo  Costa  Serra;Rua Paolo Porpora;TRUE
+4371;94.410.953.8-47;Miguel Pinhais Silva;Travessa Bom Jesus do Norte;TRUE
+4392;74.231.972.6-77;Davi  Barros Rodrigues;Rua Paulo Bastide;TRUE
+4393;12.647.496.8-67;Arthur  Guimarães  Arake;Viaduto Guadalajara;TRUE
+4395;68.564.828.3-64;Maria Alice  Barros  Teixeira;Rua Padre Ângelo Gioielli;TRUE
+4409;54.636.103.7-77;Gabriela  Fontes   Correia;Rua Angélicas;TRUE
+4417;06.386.171.2-33;Maria Arake  Brasil;Rua Belfort Roxo;TRUE
+4423;58.850.129.7-40;Marcelo  Guimarães   Pedreira;Rua Otací­lio Gomes;TRUE
+4428;01.944.724.0-21;Luiza  Teixeira  Rocha;Rua Alto Santa Maria;TRUE
+4449;79.677.952.2-39;Maria Alice Martins  Costa;Rua Valdomiro Urbani;TRUE
+4465;44.699.723.2-72;Ana  Matos Pinhais;Travessa Jaime Eustáquio Pacheco;TRUE
+4475;73.472.853.8-79;Luiza  Cardoso  Bahiense;Rua Chaguaramas;TRUE
+4491;88.344.950.7-48;Raquel  Macedo  Macedo;Rua David Fabricius;TRUE
+4494;84.245.173.0-74;Maria Cecília  Siqueira Sequeira;Rua Doutor Americano;TRUE
+4499;05.498.969.1-01;Tamires  Costa  Guimarães ;Via de Pedestre Cerebia;TRUE
+4507;61.525.313.5-35;Laura Arake  Brasil;Rua Durval de Almeida Santana;TRUE
+4518;60.572.653.5-52;Heitor  Campos  Queirós;Rua Hemisfério;TRUE
+4531;46.645.248.9-54;Raquel  Campos Pinhais;Rua João da Silva Moraes;TRUE
+4534;55.498.780.6-61;Theo  Queirós Mesquita;Travessa do Fado;TRUE
+4541;95.301.698.4-78;Ronaldo  Siqueira  Macedo;Rua Cesare Badiali;TRUE
+4549;37.941.551.0-39;Maria Julia Silva Rodrigues;Rua Jales Rodrigues Silva;TRUE
+4553;91.776.372.7-29;Gael Pinhais Aparecido;Rua Henrique Jorge Guedes;FALSE
+4568;54.770.482.0-88;Marcelo  Barros Calado;Rua Charles Naufal;FALSE
+4570;89.067.633.0-65;Thiago  Pedreira  Azevedo;Rua Sinfonia Escocesa;FALSE
+4580;29.756.668.1-88;Miguel  Teixeira Mesquita;Avenida Wando Henrique Cardim;FALSE
+4581;95.350.311.9-30;João Miguel  Teixeira  Siqueira;Rua Oscarina Maria de Jesus;FALSE
+4582;89.875.971.6-79;Ana  Campos  Serra;Rua Margaridas Amarelas;TRUE
+4619;64.818.915.3-79;Davi Aparecido Almeida;Via Marãni;FALSE
+4621;32.642.525.8-76;Guilherme  Barros  Matos;Rua Crispo;TRUE
+4631;97.225.142.0-24;Gabriela  Cardoso Aparecido;Rua Júlio Ribeiro Neto;TRUE
+4650;56.664.058.0-51;José  Macedo  Magalhães ;Rua Guilherme Studart;TRUE
+4659;76.964.013.3-72;Laura  Souza  Magalhães ;Travessa Ângelo Berardi;FALSE
+4677;45.440.677.8-77;Maria Julia  Souza Almeida;Praça Benjamim;TRUE
+4678;34.124.325.9-89;Luiza Almeida  Fontes ;Rua Francisco Cordeiro Lavaredas;FALSE
+4680;33.398.117.9-98;Guilherme Pinhais  Siqueira;Rua Luís Morales;FALSE
+4687;54.735.754.2-98;Aline  Matos Arake;Praça Ocupação;FALSE
+4728;28.391.184.6-20;Marcela Mesquita Aparecido;Rua da Independência;FALSE
+4731;49.677.903.9-86;Sophia  Braga  Magalhães ;Rua Rosária Ana Barbosa;FALSE
+4732;41.962.396.1-73;Viviane  Braga  Correia;Travessa Rio Tarauacá;TRUE
+4742;38.755.694.0-05;José  Rocha Calado;Rua José Branco;TRUE
+4744;33.990.839.2-61;Lucas  Campos  Castro;Rua Virgí­lio Manente;FALSE
+4756;21.463.795.3-95;Maria Julia  Matos  Campos;Rua Sardoá;TRUE
+4775;21.499.764.2-98;Gael  Serra  Correia;Avenida Carini;FALSE
+4779;01.483.172.7-41;Valentina Sequeira Calado;Rua Sargento Benevides Valente Montes;TRUE
+4783;24.511.186.9-92;Vanessa  Barros Rodrigues;Rua Frauenfeld;FALSE
+4799;96.429.690.2-10;Gabriela  Souza Aparecido;Rua Carlos Reis;FALSE
+4806;95.707.351.7-56;Thiago Calado  Cardoso;Rua Marques Ribeiro;TRUE
+4829;15.236.620.7-80;Maria Cecília  Campos  Matos;Rua Henrique Gomes de Brito;TRUE
+4834;51.208.177.2-39;Valentina Mesquita  Rocha;Rua Tomás de Santa Maria;FALSE
+4840;46.423.648.4-45;Maria Cecília  Fontes   Cardoso;Praça Amélia Terezinha;TRUE
+4897;59.789.523.0-99;Miguel  Macedo  Fontes ;Rua Lua;FALSE
+4901;81.724.774.4-07;Laura Calado Pinhais;Rua Linda Lucotti;TRUE
+4904;27.227.366.0-42;Vanessa Rodrigues  Braga;Rua Maria Auxiliadora;TRUE
+4913;54.804.026.9-70;Heitor  Bahiense  Braga;Rua Doutor Ibsen da Costa Manso;TRUE
+4916;25.440.413.8-25;Ronaldo Oliveira Kubitcheck;Avenida Doutor Mário Vilas Boas Rodrigues;TRUE
+4917;08.438.869.6-87;Heloísa  Souza  Correia;Rua Anael;TRUE
+4926;09.792.446.6-58;Gabriela Kubitcheck  Matos;Praça Virgí­lio Lúcio;TRUE
+4933;48.846.066.1-79;Eduardo  Costa Almeida;Travessa Fantasia Cromática;TRUE
+4949;54.575.052.5-66;Ana Almeida  Fontes ;Rua Verão Vermelho;TRUE
+4966;24.800.730.5-37;José Aparecido  Pedreira;Rua César Aretusi;FALSE
+4974;52.596.753.7-90;Maria Cecília Oliveira  Siqueira;Rua Ribeirão Pires;FALSE
+4975;73.035.641.4-48;Maria Alice  Bahiense Calado;Rua Alvaro Martins Sevilha;FALSE
+4987;19.617.854.1-87;Ana Kubitcheck  Siqueira;Praça Estrela do Norte;FALSE
